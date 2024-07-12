@@ -86,4 +86,4 @@ Pour tester la bibliothèque, vous pouvez utiliser les tests fournis ou écrire 
 - [42TESTERS-PRINTF](https://github.com/Mazoise/42TESTERS-PRINTF)
 
 ## Auteurs
-Ce projet est réalisé par ael-Amin dans le cadre du cursus de l'école 42.
+Ce projet est réalisé par ael-amin dans le cadre du cursus de l'école 42.
